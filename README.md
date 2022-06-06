@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gustavo Xavier 👋
 
 
-- 🌱 Estudando ReactJS e TypeScript
+- 🌱 Estudando ReactJS, TypeScript e Java
 - 📫 Contate-me no email: guh.coostta@gmail.com
 - 😄 Pronouns: ele/dele
 
